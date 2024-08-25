@@ -6,6 +6,10 @@ My expertise spans across various technologies, including Java, JavaScript, Pyth
 
 Let's connect and collaborate on exciting projects!
 
+[<img src="https://img.icons8.com/?size=100&id=13955&format=png&color=000000">](https://stackoverflow.com/users/13656343/jaynil-savani)
+[<img src="https://img.icons8.com/?size=100&id=118979&format=png&color=000000">](https://ca.linkedin.com/in/jaynil-savani)
+
+
 # Skills < >
 
 ### Languages
