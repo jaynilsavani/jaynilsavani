@@ -48,8 +48,14 @@ Let's connect and collaborate on exciting projects!
 
 
 ### About Me
-- 🔭 I’m currently working on Software Development
-- 🌱 I’m currently sharpening my skills in Data Structures & Algorithms
-- 👯 I’m looking to collaborate on any project ideas
-- 💬 Feel free to reach out to me for any tech-related queries
-- 📫 How to reach me: jenilsavani009@gmail.com
+
+🔭 **Currently Working On**: Software Development, focusing on creating efficient and scalable solutions.
+
+🌱 **Learning Journey**: Sharpening my skills in Data Structures & Algorithms to solve complex problems more effectively.
+
+👯 **Collaboration**: Open to collaborating on innovative project ideas, especially those that push the boundaries of technology.
+
+💬 **Let's Connect**: Feel free to reach out for any tech-related queries, discussions, or just to say hi!
+
+📫 **Contact Me**:
+- **Email**: jaynil.tech@gmail.com
